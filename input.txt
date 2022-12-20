@@ -1,0 +1,3 @@
+C:/Users/LEGION/PycharmProjects/pythonProject4/input_files/files/main.py C:/Users/LEGION/PycharmProjects/pythonProject4/input_files/plagiat1/main.py
+C:/Users/LEGION/PycharmProjects/pythonProject4/input_files/files/_workarounds.py C:/Users/LEGION/PycharmProjects/pythonProject4/input_files/plagiat2/_workarounds.py
+C:/Users/LEGION/PycharmProjects/pythonProject4/input_files/files/_workarounds.py C:/Users/LEGION/PycharmProjects/pythonProject4/input_files/files/_workarounds.py
